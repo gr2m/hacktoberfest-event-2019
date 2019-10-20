@@ -7,6 +7,7 @@ use std::io
 fn main(){
   println!("I was wrong, when you use the println!() function it adds a linebreak on its own.");
   println!("So it's not like cout, which is probably a good thing.");
+  println!("Println will give you a newline after each thing. Print will just give you a normal print, so if you want to let it build your string from parts you can just do print a few times.");
   print!("H");
   print!("e");
   print!("l");
