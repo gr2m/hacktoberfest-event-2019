@@ -5,3 +5,7 @@
 - @dmpsaga
 - @gr2m
 - @missmimile
+
+## License
+
+[MIT](LICENSE)
